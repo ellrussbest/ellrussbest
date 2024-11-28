@@ -2,7 +2,6 @@
 <h3 align="center">Software Developer</h3>
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1t6OxbuX1qpG0M7R7oFycHJ9dSXeYcwjL8fqhX6FxRQ8/pub" target="_blank"> Résumé </a>
-<a href="https://index.ros.org/repos/" target="_blank">Click to see all the available ROS2 open source Packages</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
